@@ -29,7 +29,7 @@ class Chess extends BoardGame{
 public class GameClass {
 
 	public static void main(String[] args) {
-		Chess ch = new Chess();
+		new Chess();
 	}
 
 }
