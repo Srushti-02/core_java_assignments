@@ -3,7 +3,7 @@ import java.sql.*;
 import java.util.Scanner;
 
 
-public class Demo1 {
+public class EmployeeDemo {
 	private static void createTable(Statement stmt) {
 		String query = """
 				CREATE TABLE EMPLOYEE(
