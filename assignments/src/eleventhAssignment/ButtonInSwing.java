@@ -1,4 +1,4 @@
-package swingPractice;
+package eleventhAssignment;
 //import java.awt.Color;
 import java.awt.Image;
 
